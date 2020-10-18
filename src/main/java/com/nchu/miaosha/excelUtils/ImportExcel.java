@@ -1,4 +1,4 @@
-package com.nchu.miaosha.excelUtils.annotation;
+package com.nchu.miaosha.excelUtils;
 
 /**
  * @ClassName: ImportExcel
